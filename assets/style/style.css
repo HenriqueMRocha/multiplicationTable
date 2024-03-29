@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: rgb(10, 100, 202);
+}
+
+h1 {
+    font: Normal 30pt Times;
+    color: white;
+    text-align: center;
+}
+
+
+section {
+    background-color: white;
+    border-radius: 18px;
+    width: 500px;
+    height: 400px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    margin-top: 5px;
+    font: italic
+}
+
+div {
+    font: Normal 18pt Times;
+    margin-left: 5px;
+}
+
+.button-container {
+    margin-top: 7px;
+}
